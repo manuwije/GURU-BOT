@@ -81,7 +81,7 @@ global.dygp = 'https://chat.whatsapp.com/EIjQV4nxXwJ6S6QHSa9jpN'
 global.fgsc = 'https://github.com/manulofficial7'
 global.fgyt = 'https://youtube.com/@manulofficial'
 global.fgpyp = 'https://youtube.com/@manulofficial'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
+global.fglog = 'https://telegra.ph/file/90509699e8ae4bf5126cd.jpg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
